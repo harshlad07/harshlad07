@@ -37,7 +37,7 @@ Whether it's reverse engineering, building a simple GUI tool, or experimenting w
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/harshlad07)
+- 💼 [LinkedIn](www.linkedin.com/in/harsh-lad-5907661b5)
 - 🧠 Always open to collaboration or learning opportunities!
 - 🛠️ Feel free to fork, star, or suggest improvements on any of my repos.
 
