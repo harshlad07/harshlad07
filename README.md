@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Harsh Lad
 
-🔐 Cybersecurity Enthusiast | 🐧 Linux User | 💻 Full Stack Explorer | 🛠️ Security Researcher in Progress
+🔐 Cybersecurity Enthusiast | 🐧 Linux User | 🛠️ Security Researcher in Progress
 
 Welcome to my GitHub! I'm passionate about building secure applications, exploring system internals, and constantly pushing the boundaries of what technology can do.
 Whether it's reverse engineering, building a simple GUI tool, or experimenting with eBPF-based IDS, you'll find it here!
