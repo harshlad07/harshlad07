@@ -9,7 +9,6 @@ Whether it's reverse engineering, building a simple GUI tool, or experimenting w
 
 ## 🧠 Current Focus
 
-- 🔍 Building an eBPF-based Intrusion Detection System
 - 🛡️ Exploring Cyber Forensics, AI in Security & VPN verification tools
 - 🐍 Python for Security (Networking, Sniffing, Spoofing, Steganography)
 - 📦 Creating cross-platform tools (.exe from Linux for Windows)
@@ -22,16 +21,15 @@ Whether it's reverse engineering, building a simple GUI tool, or experimenting w
 - **Languages:** Python, C, Bash, Solidity, JavaScript
 - **Security Tools:** Wireshark, Metasploit, Burp Suite, custom scripts
 - **Platforms:** Kali Linux, VirtualBox, WSL, GitHub
-- **Others:** OpenSearch, Docker, Git, Tkinter, CLI tools
+- **Frameworks & Tools:** OpenSearch, Docker, Git, Tkinter, Scapy, pdfkit, CLI automation
 
 ---
 
 ## 📂 Notable Projects
 
-- 🐛 **Keylogger with GUI/CLI**
-- 🕸️ **Custom Web Vulnerability Scanner**
-
-> 🔗 Check out my pinned repos below for hands-on projects and code!
+- 🕸️ **WebScanner** Custom web vulnerability scanner with XSS, SQLi, CSRF detection and HTML/JSON reporting
+- 🔍 **Digital Forensics Collector**: Live process and system evidence gathering tool with reporting and domain correlation
+- 🐛 **Keylogger with GUI/CLI**: Educational keylogger with optional GUI and logging features
 
 ---
 
